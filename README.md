@@ -1,4 +1,4 @@
-<h2>Github Finder is a web application, you can search github users with it.</h2>
+<h1>Github Finder is a web application, you can search github users with it.</h1>
 <p>I developed it with React.js</p>
 
 <h2>To Getting Started</h2>
